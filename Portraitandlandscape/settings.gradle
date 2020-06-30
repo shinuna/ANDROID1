@@ -1,0 +1,2 @@
+rootProject.name='Portrait and landscape'
+include ':app'
